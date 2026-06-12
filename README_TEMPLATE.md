@@ -5,21 +5,20 @@
 
 
 ## Table of Contents
-1. [Project Overview](#1-project-overview)
-2. [Objectives](#2-objectives)
-3. [Project Scope & Tools](#3-project-scope--tools)
-4. [Repository Structure](#4-repository-structure)
-5. [Data Workflow](#5-data-workflow)
-6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
-
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Project Objectives](#project-objectives)
+4. [Tools & Technologies](#tools--technologies)
+5. [Calculated Columns](#calculated-columns)
+6. [Pivot Table Analysis (Excel Evidence)](#pivot-table-analysis-excel-evidence)
+7. [Dashboard Development](#dashboard-development)
+8. [Workforce Overview Dashboard](#workforce-overview-dashboard)
+9. [Performance and Engagement Dashboard](#performance-and-engagement-dashboard)
+10. [Training and HR Investment Dashboard](#training-and-hr-investment-dashboard)
+11. [Key Insights](#key-insights)
+12. [Recommendations](#recommendations)
+13. [Conclusion](#conclusion)
+14. [Author](#author)
 ---
 
 ## Project Overview
@@ -74,6 +73,8 @@ Several calculated columns were created to enhance the analysis and support dash
 ## Pivot Table Analysis (Excel Evidence)
 This section contains Pivot Tables used for analysis before dashboard creation.
 <img width="886" height="560" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7f2f838a-a0c9-4ee8-9b40-b06e57db1f10" />
+
+
 <img width="1120" height="558" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/30e027f0-827a-4804-90d2-c92af6a2a592" />
 <img width="1118" height="558" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/5cc7dc80-0de8-46cd-a54d-e3288f08213f" />
 
@@ -173,10 +174,15 @@ Some of the insights generated from the analysis include:
 
 **Joan Ajifa Usman**
 Data Analyst | Business Intelligence Analyst
+Excel
+Power BI
+SQL
+Data Visualization
+Data Storytelling
 
-- 🔗 www.linkedin.com/in/joan-usman-a8a461273
-- 💼 https://github.com/
-- 📧 [Email - optional]
+- 🔗 LinkedIn: www.linkedin.com/in/joan-usman-a8a461273
+- 💼 GitHub: https://github.com/
+- 📧 Email: joanajifa@gmail.com
 
 ---
 *Last updated: [Month YYYY]*
