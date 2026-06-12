@@ -71,6 +71,20 @@ Several calculated columns were created to enhance the analysis and support dash
 | Training Completion Status | 	Created to evaluate the effectiveness of employee training programs by comparing training outcomes and performance indicators. |
 
 ---
+## Pivot Table Analysis (Excel Evidence)
+This section contains Pivot Tables used for analysis before dashboard creation.
+<img width="886" height="560" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7f2f838a-a0c9-4ee8-9b40-b06e57db1f10" />
+<img width="1120" height="558" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/30e027f0-827a-4804-90d2-c92af6a2a592" />
+<img width="1118" height="558" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/5cc7dc80-0de8-46cd-a54d-e3288f08213f" />
+
+---
+## Dashboard Development
+Three dashboards were created:
+- Workforce Overview Dashboard
+- Performance & Engagement Dashboard
+- Training & HR Investment Dashboard
+
+---
 ## Workforce Overview Dashboard
 <img width="1280" height="720" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bb47d924-a47e-446d-8658-121de16708ab" />
 
