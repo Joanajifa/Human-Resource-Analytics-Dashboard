@@ -70,7 +70,43 @@ The primary objectives of this project include:
 ---
 
 ## 11. Assumptions & Limitations
+---
 
+## Dashboard 1: Workforce Overview
+
+### KPIs
+- Total Employees
+- Average Employee Age
+- Average Tenure
+- Gender Distribution
+
+### Visualizations
+- Employee Count by Department
+- Employee Count by Gender
+- Employee Distribution by Age Group
+- Business Unit Analysis
+
+### Business Value
+This dashboard provides visibility into workforce composition and helps HR teams understand employee distribution across demographics and departments.
+
+---
+## Dashboard 2: Performance & Engagement
+
+### KPIs
+- Average Engagement Score
+- Average Satisfaction Score
+- Average Work-Life Balance Score
+- Average Employee Rating
+- High Performer Count
+
+### Visualizations
+- Performance Score by Department
+- Engagement Level Distribution
+- Satisfaction Score by Division
+- Top Performing Departments
+
+### Business Value
+This dashboard helps management identify highly engaged teams, Departments with strong performance, Areas requiring employee support and opportunities to improve workplace satisfaction
 ## Dashboard 3: Training Analytics
 
 ## KPIs
