@@ -47,9 +47,9 @@ The primary objectives of this project include:
 - Support data-driven HR decision-making through interactive dashboards.
 
 
-## 3.  Tools & Technologies
+## Tools & Technologies
 
-| Category | Tool(s) Used |
+| Tools | Purpose |
 |----------|-------------|
 | Microsoft Excel | 	Primary tool used for data analysis and dashboard development. |
 | Pivot Tables | 	Summarized and analyzed large HR datasets efficiently. |
@@ -59,7 +59,16 @@ The primary objectives of this project include:
 | Conditional Formatting | 	Enhanced data presentation and highlighted important insights. |
 
 ---
+| Tools | Purpose |
+|----------|-------------|
+| Age Group | 	Categorized employees into Adult, Middle Age , Old and Young Adult for demographic analysis. |
+| Tenure  | 	 Measures the number of years employees have spent based on their employment start date. |
+| Performance Category | Classified employees as Good, Needs Improvement and Excellent based on performance ratings. |
+| Engagement Level | 	Created using high, low and medium to classify employees into different engagement categories. |
+| Satisfaction Level | 	Segmented employees based on satisfaction scores to identify sentiment trends. |
+| Training Completion Status | 	Created to evaluate the effectiveness of employee training programs by comparing training outcomes and performance indicators. |
 
+---
 ## Workforce Overview Dashboard
 <img width="1280" height="720" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bb47d924-a47e-446d-8658-121de16708ab" />
 
