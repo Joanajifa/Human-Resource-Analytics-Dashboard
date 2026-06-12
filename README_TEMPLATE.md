@@ -59,6 +59,8 @@ The primary objectives of this project include:
 | Conditional Formatting | 	Enhanced data presentation and highlighted important insights. |
 
 ---
+## Calculated Columns
+Several calculated columns were created to enhance the analysis and support dashboard reporting
 | Tools | Purpose |
 |----------|-------------|
 | Age Group | 	Categorized employees into Adult, Middle Age , Old and Young Adult for demographic analysis. |
