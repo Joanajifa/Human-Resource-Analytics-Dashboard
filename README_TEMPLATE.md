@@ -58,60 +58,54 @@ The primary objectives of this project include:
 | Slicers | 	Enabled interactive filtering across dashboards. |
 | Conditional Formatting | 	Enhanced data presentation and highlighted important insights. |
 
-
--->
-
-| Priority | Recommendation | Based On | Suggested Owner |
-|----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
-
----
-
-## 11. Assumptions & Limitations
 ---
 
 ## Workforce Overview Dashboard
+<img width="1280" height="720" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bb47d924-a47e-446d-8658-121de16708ab" />
 
 ### KPIs
-•	Total Employees
-•	Average Employee Age
-•	Average Tenure
-•	Male Employees
-•	Female Employees
+- Total Employees
+- Average Employee Age
+- Average Tenure
+- Male Employees
+- Female Employees
 
-### Visualizations
-•	Employee Count by Department
-•	Employee Count by Gender
-•	Employee Distribution by Age Group
-•	Business Unit Analysis
+### Charts
+- Employee Count by Department
+- Employee Count by Gender
+- Employee Distribution by Age Group
+- Business Unit Analysis
 
 ### Slicer
-•	Department
+- Department
 
 ### Business Value
 This dashboard provides visibility into workforce composition and helps HR teams understand employee distribution across demographics and departments.
 
 ---
-## Dashboard 2: Performance & Engagement
+## Performance and Engagement Dashboard
+<img width="1280" height="720" alt="Dashboard 2" src="https://github.com/user-attachments/assets/40d71f93-c6d4-4291-b433-248dd84726c6" />
 
 ### KPIs
-•	Average Engagement Score
-• Average Satisfaction Score
-• Average Work-Life Balance Score
-• Average Employee Rating
-• High Performer Count
+- Average Engagement Score
+- Average Satisfaction Score
+- Average Work-Life Balance Score
+- Average Employee Rating
+- High Performer Count
 
-### Visualizations
-• Performance Score by Department
-• Engagement Level Distribution
-• Satisfaction Score by Division
-• Top Performing Departments
+### Charts
+- Performance Score by Department
+- Engagement Level Distribution
+- Satisfaction Score by Division
+- Top Performing Departments
+
+### Slicer
+- Business Unit 
 
 ### Business Value
 This dashboard helps management identify highly engaged teams, Departments with strong performance, Areas requiring employee support and opportunities to improve workplace satisfaction
-## Dashboard 3: Training Analytics
+## Training and HR Investment Dashboard
+<img width="1280" height="720" alt="Dashboard 3" src="https://github.com/user-attachments/assets/b2577434-5973-4f2a-8317-7860d4ae6add" />
 
 ## KPIs
 - Total Training Cost
@@ -120,71 +114,44 @@ This dashboard helps management identify highly engaged teams, Departments with 
 - Average Training Duration
 - Successful Training Count
 
-## Visualizations
+## Charts
 - Training Program Attendance
 - Training Cost by Department
 - Training Outcome Analysis
 - Training Type Performance
 
 ## Slicer
-Training Program
+- Training Program
 
 ## Business Value
 This dashboard evaluates the organization's training investments and measures the effectiveness of learning and development initiatives.
 
 
-### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
+### Key Insights
+Some of the insights generated from the analysis include:
+- Departments with the highest employee concentration.
+- Variations in engagement and satisfaction levels across business units.
+- Identification of high-performing departments.
+- Training programs with the highest participation rates.
+- Training outcomes and completion trends.
+- Areas where additional employee development initiatives may be required.
 
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
-
----
-
-## 12. Future Enhancements
-
-<!--
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Automate the monthly data pull from the POS export folder using
-      a scheduled Python script, replacing the current manual process."
-  ✅ "Expand the return rate analysis to include carrier-level data,
-      which was unavailable in this dataset but exists in the logistics system."
-
-  WHAT TO AVOID:
-  ❌ "Add a machine learning model."
-     (Vague, and disconnected from the actual findings of this project.)
-  ❌ Listing aspirational features that don't follow logically from the work.
--->
-
-- [ ] [Enhancement 1 - specific and traceable to a real gap in this project]
-- [ ] [Enhancement 2]
-- [ ] [Enhancement 3]
-- [ ] [Enhancement 4]
+## Recommendations
+- Increase investment in training programs with high completion and success rates
+- Investigate departments with lower engagement or satisfaction scores.
+- Develop retention strategies for critical workforce segments.
+- Monitor performance metrics regularly to support talent management decisions.
+- Use dashboard insights to guide future workforce planning initiatives.
 
 ---
+## Author
 
-## 13. Deliverables
+**Joan Ajifa Usman**
+Data Analyst | Business Intelligence Analyst
 
-| Deliverable | Description | Location |
-|-------------|-------------|----------|
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-
----
-
-## 14. Author
-
-**[Your Name]**
-[Your role or title - current or target]
-
-- 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
+- 🔗 www.linkedin.com/in/joan-usman-a8a461273
+- 💼 https://github.com/
 - 📧 [Email - optional]
 
 ---
-
 *Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
