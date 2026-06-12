@@ -19,6 +19,7 @@
 12. [Recommendations](#recommendations)
 13. [Conclusion](#conclusion)
 14. [Author](#author)
+15. [Get in Touch and Connect](#get-in-touch-and-connect)
 ---
 
 ## Project Overview
@@ -179,16 +180,21 @@ The insights generated from this analysis can help organizations improve workfor
 ## Author
 
 **Joan Ajifa Usman**
-Data Analyst | Business Intelligence Analyst
-Excel
-Power BI
-SQL
-Data Visualization
-Data Storytelling
+
+- Data Analyst | Business Intelligence Analyst
+- Excel
+- Power BI
+- SQL
+- Data Visualization
+- Dasboard Development
+- Data Storytelling
+  
+---
+## Get in Touch and Connect 
 
 - 🔗 LinkedIn: www.linkedin.com/in/joan-usman-a8a461273
 - 💼 GitHub: https://github.com/
 - 📧 Email: joanajifa@gmail.com
 
 ---
-*Last updated: June, 202*
+
